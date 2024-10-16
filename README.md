@@ -1,8 +1,3 @@
-# Datathon
-Here is a draft for the `README.md` file based on the content of the files you've uploaded:
-
----
-
 # MLDA EEE Datathon - Credit Card Fraud Detection
 
 ## Team Members
