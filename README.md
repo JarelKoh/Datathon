@@ -61,16 +61,7 @@ The dataset used in this project is the **Credit Card Fraud Prediction Dataset**
   ```
 
 ### How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo-url.git
-   cd your-repo-url
-   ```
-2. Run the preprocessing and model training script:
-   ```bash
-   python fraud_detection.py
-   ```
-3. Evaluate the model performance using the provided test set.
+1. Open with jupyter notebook or VSCode to run
 
 ## Results
 The model achieved a **high precision of 0.9429**, with a balanced approach to minimizing false negatives and false positives. The XAI component makes it more interpretable and deployable in real-world applications.
